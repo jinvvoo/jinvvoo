@@ -22,7 +22,7 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumn93&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinvvoo&show_icons=true&theme=react)
 
 
 </div>
