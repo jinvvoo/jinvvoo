@@ -9,9 +9,8 @@
   👋&nbsp; 안녕하세요! </b><br/>
   현재 메타버스 아카데미 2기 서버개발반에서 공부 중입니다. <b>MTVS🚀<br/>
   저는 Server, Ai, IoT에 관심이 있습니다. <b>👨🏻‍💻</b><br/>
-  <br/><br/>
 
-### 💪 Skills
+
 #### Languages
 <p>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
