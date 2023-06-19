@@ -25,7 +25,22 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinvvoo&show_icons=true&theme=react)
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinvvoo&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinvvoo&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinvvoo&theme=holi-theme">
+</p>
 
+
+
+-----
+Credits: [jinvvoo](https://github.com/jinvvoo)
+
+Last Edited on: 19/06/2023
 
 </div>
