@@ -10,7 +10,7 @@
   현재 메타버스 아카데미 2기 서버개발반에서 공부 중입니다. <b>MTVS🚀</b><br/>
   저는 <b>Server, Ai, IoT</b>에 관심이 있습니다. 👨🏻‍💻<br/>
 
-
+</b><br/>
 #### 개발언어
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
