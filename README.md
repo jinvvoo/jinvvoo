@@ -20,18 +20,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 </p>
 
-#### 라이브러리
-<p>
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
-</p>
-
 #### 개발도구
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-#### 헙업도구
+#### 협업도구
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -41,6 +36,7 @@
 #### 기타
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/ReactQuery-midnightblue?style=for-the-badge&logo=ReactQuery&logoColor=white"/>   
 </p>
