@@ -6,11 +6,15 @@
 </p>
 </b><br/>
 <p>
-  👋&nbsp; 안녕하세요! </b><br/>
+  안녕하세요!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> </b><br/>
   현재 메타버스 아카데미 2기 서버개발반에서 공부 중입니다. <b>MTVS🚀</b><br/>
   저는 <b>Server, Ai, IoT</b>에 관심이 있습니다. 👨🏻‍💻<br/>
 
 </b><br/>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 #### 개발언어
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -46,6 +50,8 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </p>
+
+<p></p>
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
