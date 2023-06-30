@@ -4,13 +4,16 @@
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/insta-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:jinvvookim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-</b><br/>
-<p>
-  안녕하세요!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> </b><br/>
-  현재 메타버스 아카데미 2기 서버개발반에서 공부 중입니다. <b>MTVS🚀</b><br/>
-  저는 <b>Server, Ai, IoT</b>에 관심이 있습니다. 👨🏻‍💻<br/>
 
-</b><br/>
+
+<p>
+
+  안녕하세요!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> <br>
+  현재 메타버스 아카데미 2기 서버개발반에서 공부 중입니다. <b>MTVS🚀</b> <br>
+  저는 <b> 음악</b>🎸 / <b> 여행🏖️</b> / <b>운동</b> 🚴‍♂️️⛹️🏊  을 좋아합니다. <br>
+
+  <b> AI, Server, IoT </b> 에 관심이 있습니다. 👨🏻‍💻
+</p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -72,6 +75,8 @@
 
 
 -----
+<p>
+
 Credits: [jinvvoo](https://github.com/jinvvoo)
 
 Last Edited on: 2023/06/30
@@ -79,3 +84,4 @@ Last Edited on: 2023/06/30
 오늘의 방문자 : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinvvoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  
+</p>
