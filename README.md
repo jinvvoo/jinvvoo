@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=백엔드%20개발자%20'김진우'%20입니다&fontAlign=50&fontSize=50&fontColor=FFFFFF)
+
 ### 🤞 반갑습니다
 <p>
   <a href="https://blog.naver.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
