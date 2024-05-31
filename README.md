@@ -76,21 +76,6 @@
 
 
 
------
-<p>
-
-Credits: [jinvvoo](https://github.com/jinvvoo)
-
-Last Edited on: 2023/06/30
-
-<br>
-
-<p align="left">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinvvoo&count_bg=%2379C83D&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
-
-</p>
-
 
 ## 📃 Project
 
@@ -99,6 +84,21 @@ Last Edited on: 2023/06/30
 |메타버스 라이프로깅 SNS '우리가족섬'|server|![Team](https://img.shields.io/badge/Team-red)| 23. 10. 04 ~ 23. 12. 12	|👉 [Repo](https://github.com/), [Blog](https://velog.io/@)|
 
 <br>
- 
+
+<h2 align="center">
+  <u>📞 Contact</u></h2>
+
+🔹 E-mail 👉 jinvvookim@gmail.com <br>
+🔹 Blog 👉 [Link](https://velog.io/@jinvvoo/series/)
+
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B22222,50:C23352&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
+
+
+-----
+
+<p align="left">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinvvoo&count_bg=%2379C83D&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+
+Last Edited on: 2024/05/31
