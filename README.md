@@ -92,4 +92,13 @@ Last Edited on: 2023/06/30
 </p>
 
 
+## 📃 Project
+
+|Project Name|Tech Stack|Team|   Period   |Link|
+|:---:|:---:|:---:|:---:|:---:|
+|메타버스 라이프로깅 SNS '우리가족섬'|server|![Team](https://img.shields.io/badge/Team-red)| 23. 10. 04 ~ 23. 12. 12	|👉 [Repo](https://github.com/), [Blog](https://velog.io/@)|
+
+<br>
+ 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B22222,50:C23352&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
