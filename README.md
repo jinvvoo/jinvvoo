@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=B22222&text=백엔드%20개발자%20'김진우'%20입니다&fontAlign=50&fontSize=50&fontColor=FFFFFF&section=header&reversal=false&textBg=false&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:B22222,50:C23352&text=백엔드%20개발자%20'김진우'%20입니다&fontAlign=50&fontSize=50&fontColor=FFFFFF&section=header&reversal=false&textBg=false&descAlign=72)
 
 ### 🤞 반갑습니다
 <p>
