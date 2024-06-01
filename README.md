@@ -77,7 +77,8 @@
 
 
 
-## 📃 Project
+<h2 align="center">
+  📃 Project</h2>
 
 |Project Name|Tech Stack|Team|   Period   |Link|
 |:---:|:---:|:---:|:---:|:---:|
@@ -88,8 +89,14 @@
 <h2 align="center">
   <u>📞 Contact</u></h2>
 
+  <div align="center">
+
 🔹 E-mail 👉 jinvvookim@gmail.com <br>
 🔹 Blog 👉 [Link](https://velog.io/@jinvvoo/series/)
+
+    
+  </div>
+
 
 
 
