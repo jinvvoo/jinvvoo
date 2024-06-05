@@ -11,7 +11,7 @@
 <p>
  
   안녕하세요!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"> <br>
-  현재 메타버스 아카데미 2기 서버개발반에서 공부 중입니다. <b>MTVS🚀</b> <br>
+  메타버스 아카데미 2기 서버개발반에서 공부했습니다. <b>MTVS🚀</b> <br>
   저는 <b> 음악</b>🎸 / <b> 여행🏖️</b> / <b>운동</b> 🚴‍♂️️⛹️🏊  을 좋아합니다. <br>
 
   <b> AI, Server, IoT </b> 에 관심이 있습니다. 👨🏻‍💻
