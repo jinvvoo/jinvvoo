@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:B22222,50:C23352&text=백엔드%20개발자%20'김진우'%20입니다&fontAlign=50&fontSize=50&fontColor=FFFFFF&section=header&reversal=false&textBg=false&descAlign=72)
 
+<div align="center">
 
-### About Me 💁🏻
+### 💁🏻 About Me
 Backend Developer <br> <br>
 
 
@@ -54,6 +55,7 @@ Backend Developer <br> <br>
 
 <br>
 
+   </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B22222,50:C23352&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
 
