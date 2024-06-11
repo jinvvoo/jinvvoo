@@ -80,9 +80,14 @@
 <h2 align="center">
   📃 Project</h2>
 
+  <div align="center">
+
 |Project Name|Tech Stack|Team|   Period   |Link|
 |:---:|:---:|:---:|:---:|:---:|
 |메타버스 라이프로깅 SNS '우리가족섬'|server|![Team](https://img.shields.io/badge/Team-red)| 23. 10. 04 ~ 23. 12. 12	|👉 [Repo](https://github.com/), [Blog](https://velog.io/@)|
+
+
+  </div>
 
 <br>
 
