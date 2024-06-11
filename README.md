@@ -37,6 +37,7 @@ Backend Developer <br> <br>
 
 <br>
 
+
 ## 📃 Project
 
 |Project Name|Description|Tech Stack|Team|   Period   |Link| |
@@ -47,11 +48,11 @@ Backend Developer <br> <br>
 <br>
 
 
-
 ## 📞 Contact
 🔹 E-mail 👉 jinvvookim@gmail.com <br>
 🔹 Blog 👉 [Link](https://velog.io/@jinvvoo/series/)
 
+<br>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:B22222,50:C23352&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
