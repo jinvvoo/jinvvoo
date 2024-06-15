@@ -2,8 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:B22222,50:C23352&text=백엔드%20개발자%20'김진우'%20입니다&fontAlign=50&fontSize=50&fontColor=FFFFFF&section=header&reversal=false&textBg=false&descAlign=72)
 
 
-### 💁🏻 About Me
-안녕하세요. 백엔드 개발자 김진우입니다. <br> 메타버스 아카데미에서 6개월간 Java와 Spring Boot를 활용한 프로젝트를 진행해왔습니다. <br> 엔지니어로서의 마음을 갖고 매일 공부하며 품질과 사용성을 개선하는 개발자입니다. <br> <br>
+## 💁🏻 About Me
+#### 안녕하세요. 백엔드 개발자 김진우입니다.
+#### 메타버스 아카데미에서 6개월간 Java와 Spring Boot를 활용한 프로젝트를 진행해왔습니다.
+#### 엔지니어로서의 마음을 갖고 매일 공부하며 품질과 사용성을 개선하는 개발자입니다.
+<br> <br>
 
 
 
