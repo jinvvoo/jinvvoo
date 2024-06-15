@@ -47,7 +47,7 @@
 |Project Name|Description|Tech Stack|Team|   Period   |Link| |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |메타버스 라이프로깅 SNS '우리가족섬'|가족 유대감 형성을 위한 메타버스 라이프로깅 SNS '우리가족섬'|JAVA(11), SPRING BOOT(2.7.17), SPRING SECURITY, JWT(0.11.2), JPA, MYSQL, AWS EC2|![Team](https://img.shields.io/badge/Team-red)| 23. 10. 04 ~ 23. 12. 12	|👉 [Repo](https://github.com/), [Blog](https://velog.io/@)|🏆|
-|Maronnier|칵테일 추천 사이트|JAVA, SPRING BOOT, SPRING SECURITY, MYSQL, HTML5, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP|![Team](https://img.shields.io/badge/Team-red)| 23. 07.07 ~ 23. 07.30 (약 24일)	|👉 [Repo](https://github.com/). [Blog](https://velog.io/@)| |
+|Maronnier|칵테일 추천 사이트|JAVA, SPRING BOOT, SPRING SECURITY, MYSQL, HTML5, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP|![Team](https://img.shields.io/badge/Team-red)| 23. 07.07 ~ 23. 07.30	|👉 [Repo](https://github.com/). [Blog](https://velog.io/@)| |
 |MTVS, Lounge Reservation|메타버스 라운지 좌석 예약 및 소통 공간 사이트|JAVA, SPRING BOOT, MYSQL, HTML5, CSS3, JavaScript, Bootstrap|![Team](https://img.shields.io/badge/Team-red)| 23. 06. 21 ~ 23. 06. 28	|👉 [Repo](https://github.com/). [Blog](https://velog.io/@)| |
 
 <br>
