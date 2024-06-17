@@ -55,7 +55,9 @@
 
 ## 📞 Contact
 🔹 E-mail 👉 jinvvookim@gmail.com <br>
+<!--
 🔹 Blog 👉 [Link](https://velog.io/@jinvvoo/series/)
+-->
 
 <br>
 
