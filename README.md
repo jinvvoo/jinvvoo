@@ -19,7 +19,7 @@
 | 프로젝트명 | 설명 | 기술 | 구&#8288;분 | 기간 | 링크 | 비고 |
 |:---|:---|:---|:---:|:---:|:---:|:---:|
 | **QInvest** | 미국 주식 정보·분석 서비스와 공개 전 보안·복구 경계를 함께 개발하는 공동 제품 | TypeScript, JavaScript, React, Next.js<br>Node.js, Express, SQLite, PM2 | ![Team](https://img.shields.io/badge/Team-red) | 2026.02 ~<br>진행 중 | 준비중 | 개발 중 |
-| **KeySift** | 사진·영상·오디오를 미리보고 지정 폴더로 안전하게 분류하는 Windows 도구 | C#, .NET 8, WPF<br>FFmpeg | ![Personal](https://img.shields.io/badge/Personal-0F766E) | 2026.05 ~<br>진행 중 | 준비중 | v0.11.1 공개 |
+| **KeySift** | 사진·영상·오디오를 미리보고 지정 폴더로 안전하게 분류하는 Windows 도구 | C#, .NET 8, WPF<br>FFmpeg | ![Personal](https://img.shields.io/badge/Personal-0F766E) | 2026.05 ~<br>진행 중 | 준비중 | v0.11.1<br>공개 |
 | **우리가족섬** | 가족 유대감 형성을 위한 3D 메타버스 라이프로깅 SNS | Java, Spring Boot, Spring Security, JWT<br>JPA, MySQL, Redis<br>Swagger/OpenAPI, AWS EC2 | ![Team](https://img.shields.io/badge/Team-red) | 2023.10 ~<br>12 | 👉<br>[Repo](https://github.com/WooriIsland/back-end) | 🏆<br>과학기술 정보통신부<br>장관상 |
 | **Maronnier** | 취향 기반 칵테일 추천과 피드 커뮤니티 서비스 | Java, Spring Boot, Spring Security<br>JPA, MyBatis, MySQL<br>Thymeleaf, HTML5, CSS3<br>JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.07.07 ~<br>07.30 | 👉<br>[Repo](https://github.com/chain-smoker/Marronnier) | |
 | **MTVS Lounge Reservation** | 메타버스 아카데미 라운지 예약·커뮤니티 시스템 | Java, Spring Boot, JPA, MySQL<br>Thymeleaf, HTML5, CSS3<br>JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.06.21 ~<br>06.28 | 👉<br>[Repo](https://github.com/MTVS-CodeMagician/MTVS-reserve) | |
