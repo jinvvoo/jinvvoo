@@ -23,7 +23,7 @@
 | **우리가족섬** | 가족 유대감 형성을 위한 3D 메타버스 라이프로깅 SNS | Java, Spring Boot, Spring Security, JWT<br>JPA, MySQL, Redis<br>Swagger/OpenAPI, AWS EC2 | ![Team](https://img.shields.io/badge/Team-red) | 2023.10 ~<br>12 | 👉<br>[Repo](https://github.com/WooriIsland/back-end) | 🏆<br>과학기술 정보통신부<br>장관상 |
 | **Maronnier** | 취향 기반 칵테일 추천과 피드 커뮤니티 서비스 | Java, Spring Boot, Spring Security<br>JPA, MyBatis, MySQL<br>Thymeleaf, HTML5, CSS3<br>JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.07.07 ~<br>07.30 | 👉<br>[Repo](https://github.com/chain-smoker/Marronnier) | |
 | **MTVS Lounge Reservation** | 메타버스 아카데미 라운지 예약·커뮤니티 시스템 | Java, Spring Boot, JPA, MySQL<br>Thymeleaf, HTML5, CSS3<br>JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.06.21 ~<br>06.28 | 👉<br>[Repo](https://github.com/MTVS-CodeMagician/MTVS-reserve) | |
-| **IoT 전신주 안전 관리** | 센서로 전신주 환경 데이터를 수집하고 관제 화면에서 확인하는 시스템 | Python, Raspberry Pi<br>Node-RED, IBM Watson IoT Platform | ![Team](https://img.shields.io/badge/Team-red) | 2021 | 준비중 | 🏆<br>우수상 |
+| **IoT 전신주 안전 관리** | 센서로 전신주 환경 데이터를 수집하고 관제 화면에서 확인하는 시스템 | Python, Raspberry Pi<br>Node-RED, IBM Watson IoT Platform | ![Team](https://img.shields.io/badge/Team-red) | 2021 | 👉<br>[Repo](https://github.com/jinvvoo/project-portfolio/tree/main/iot-pole) | 🏆<br>우수상 |
 | **CNN 마스크 착용 감지** | 실시간 영상의 착용 상태를 분류하고 현장 경고·원격 모니터링으로 연결한 졸업작품 | Python, Keras, OpenCV<br>Pillow, Raspberry Pi | ![Team](https://img.shields.io/badge/Team-red) | 2021 | 준비중 | 졸업논문 |
 
 ---
@@ -52,4 +52,4 @@
 
 ![김진우 GitHub 프로필 푸터](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:14532D,50:0F766E,100:0EA5E9&section=footer&text=Thank%20you&fontSize=36&fontColor=FFFFFF)
 
-<p align="right"><sub>Last updated: 2026-08-30</sub></p>
+<p align="right"><sub>Last updated: 2026-08-31</sub></p>
