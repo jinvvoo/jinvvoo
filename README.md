@@ -1,73 +1,57 @@
+![김진우 개발 여정 헤더](https://capsule-render.vercel.app/api?type=waving&height=205&color=0:14532D,50:0F766E,100:0EA5E9&text=From%20Flow%20to%20Product&fontSize=38&fontColor=FFFFFF&desc=김진우의%20개발%20여정&descAlignY=68)
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:B22222,50:C23352&text=백엔드%20개발자%20'김진우'%20입니다&fontAlign=50&fontSize=50&fontColor=FFFFFF&section=header&reversal=false&textBg=false&descAlign=72)
+# 흐름을 이해하고, 실제로 쓰이는 형태까지 만듭니다
 
+안녕하세요, 김진우입니다.
+
+화면 하나보다 그 앞뒤의 데이터와 상태 변화에 관심이 많습니다. 입력된 값이 어떤 조건을 거쳐 저장되고, 다시 조회되며, 문제가 생겼을 때 어디까지 되돌릴 수 있는지를 함께 생각합니다.
 
 ## 💁🏻 About Me
-#### 안녕하세요. 백엔드 개발자 김진우입니다.
-#### 메타버스 아카데미에서 6개월간 Java와 Spring Boot를 활용한 프로젝트를 진행해왔습니다.
-#### 엔지니어로서의 마음을 갖고 매일 공부하며 품질과 사용성을 개선하는 개발자입니다.
-<br> <br>
 
+현재 SAP UI5와 CAP/OData로 경영정보·예산·채권·업무자동화 영역의 화면과 서비스를 개발하고 있습니다.
 
+이와 함께 두 제품을 만들고 있습니다. QInvest에서는 미국 주식 정보·분석 제품의 개발 전반을 맡고 있습니다. KeySift는 사진과 영상을 안전하게 분류하기 위해 직접 만든 Windows 도구입니다.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+---
 
-#### Language
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 📃 Projects
 
-#### Frameworks, Platforms and Libraries
-![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
-![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
-![Spring Security](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
+| 프로젝트명 | 설명 | 기술 | 구분 | 기간 | 링크 | 비고 |
+|:---|:---|:---|:---:|:---:|:---:|:---:|
+| **QInvest** | 미국 주식 정보·분석 서비스와 공개 전 보안·복구 경계를 함께 개발하는 공동 제품 | TypeScript, JavaScript, React, Next.js, Node.js, Express, SQLite, PM2 | ![Team](https://img.shields.io/badge/Team-red) | 2026 ~ 진행 중 | README 준비 중 | 개발 중 |
+| **KeySift** | 사진·영상·오디오를 미리보고 지정 폴더로 안전하게 분류하는 Windows 도구 | C#, .NET 8, WPF, FFmpeg | ![Personal](https://img.shields.io/badge/Personal-0F766E) | 2026.05 ~ 진행 중 | README 준비 중 | v0.11.1 공개 |
+| **우리가족섬** | 가족 유대감 형성을 위한 3D 메타버스 라이프로깅 SNS | Java, Spring Boot, Spring Security, JWT, JPA, MySQL, Redis, Swagger/OpenAPI, AWS EC2 | ![Team](https://img.shields.io/badge/Team-red) | 2023.10 ~ 12 | 👉 [Repo](https://github.com/WooriIsland/back-end) | 🏆 과학기술정보통신부 장관상 |
+| **Maronnier** | 취향 기반 칵테일 추천과 피드 커뮤니티 서비스 | Java, Spring Boot, Spring Security, JPA, MyBatis, MySQL, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.07.07 ~ 07.30 | 👉 [Repo](https://github.com/chain-smoker/Marronnier) | |
+| **MTVS Lounge Reservation** | 메타버스 아카데미 라운지 예약·커뮤니티 시스템 | Java, Spring Boot, JPA, MySQL, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.06.21 ~ 06.28 | 👉 [Repo](https://github.com/MTVS-CodeMagician/MTVS-reserve) | |
+| **IoT 전신주 안전 관리** | 센서로 전신주 환경 데이터를 수집하고 관제 화면에서 확인하는 시스템 | Python, Raspberry Pi, Node-RED, IBM Watson IoT Platform | ![Team](https://img.shields.io/badge/Team-red) | 2021 | README 준비 중 | 🏆 우수상 |
+| **CNN 마스크 착용 감지** | 실시간 영상의 착용 상태를 분류하고 현장 경고·원격 모니터링으로 연결한 졸업작품 | Python, Keras, OpenCV, Pillow, Raspberry Pi | ![Team](https://img.shields.io/badge/Team-red) | 2021 | 자료 정리 중 | 졸업작품 |
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+---
 
-#### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+## 🛠 Skills
 
-#### Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+현재 업무와 프로젝트에서 사용한 기술을 종류별로 정리했습니다.
 
-#### Servers
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+| 구분 | 기술 |
+|:---|:---|
+| 언어 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 프론트엔드·UI | ![SAP Fiori UI5](https://img.shields.io/badge/SAP_Fiori%2FUI5-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) |
+| 백엔드 | ![SAP CAP](https://img.shields.io/badge/SAP_CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square) |
+| API·인증 | ![OData V4](https://img.shields.io/badge/OData_V4-5A67D8?style=flat-square) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OpenAPI Swagger](https://img.shields.io/badge/OpenAPI_%2F_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| 데이터·모델링 | ![CDS](https://img.shields.io/badge/CDS-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| 컴퓨터 비전·IoT | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white) ![IBM Watson IoT](https://img.shields.io/badge/IBM_Watson_IoT-052FAD?style=flat-square&logo=ibm&logoColor=white) |
+| 배포·협업 | ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
-<br>
-
-<div align="center">
-
-## 📃 Project
-
-|Project Name|Description|Tech Stack|Team|   Period   |Link| |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|메타버스 라이프로깅 SNS '우리가족섬'|가족 유대감 형성을 위한 메타버스 라이프로깅 SNS '우리가족섬'|JAVA(11), SPRING BOOT(2.7.17), SPRING SECURITY, JWT(0.11.2), JPA, MYSQL, AWS EC2|![Team](https://img.shields.io/badge/Team-red)| 23. 10. 04 ~ 23. 12. 12	|👉 [Repo](https://github.com/WooriIsland/back-end)|🏆|
-|Maronnier|칵테일 추천 사이트|JAVA, SPRING BOOT, SPRING SECURITY, MYSQL, HTML5, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP|![Team](https://img.shields.io/badge/Team-red)| 23. 07.07 ~ 23. 07.30	|👉 [Repo](https://github.com/chain-smoker/Marronnier)| |
-|MTVS, Lounge Reservation|메타버스 라운지 좌석 예약 및 소통 공간 사이트|JAVA, SPRING BOOT, MYSQL, HTML5, CSS3, JavaScript, Bootstrap|![Team](https://img.shields.io/badge/Team-red)| 23. 06. 21 ~ 23. 06. 28	|👉 [Repo](https://github.com/MTVS-CodeMagician/MTVS-reserve)| |
-
-<br>
-
+---
 
 ## 📞 Contact
-🔹 E-mail 👉 jinvvookim@gmail.com <br>
-<!--
-🔹 Blog 👉 [Link](https://velog.io/@jinvvoo/series/)
--->
+
+<p align="center">
+  <a href="mailto:jinwoo.kim.dev@gmail.com"><img alt="Email jinwoo.kim.dev@gmail.com" src="https://img.shields.io/badge/Email-jinwoo.kim.dev%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <br>
 
-   </div>
+![김진우 GitHub 프로필 푸터](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:14532D,50:0F766E,100:0EA5E9&section=footer&text=Thank%20you&fontSize=36&fontColor=FFFFFF)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B22222,50:C23352&height=250&width=400&section=footer&text=Thank%20you%20&fontSize=50&fontColor=FFFFFF)
-
------
-
-<p align="left">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinvvoo&count_bg=%2379C83D&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-
-Last Edited on: 2024/06/11
+<p align="right"><sub>Last updated: 2026-08-30</sub></p>
