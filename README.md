@@ -16,21 +16,19 @@
 
 ## 📃 Projects
 
-| 프로젝트명 | 설명 | 기술 | 구분 | 기간 | 링크 | 비고 |
+| 프로젝트명 | 설명 | 기술 | 구&#8288;분 | 기간 | 링크 | 비고 |
 |:---|:---|:---|:---:|:---:|:---:|:---:|
-| **QInvest** | 미국 주식 정보·분석 서비스와 공개 전 보안·복구 경계를 함께 개발하는 공동 제품 | TypeScript, JavaScript, React, Next.js, Node.js, Express, SQLite, PM2 | ![Team](https://img.shields.io/badge/Team-red) | 2026 ~ 진행 중 | README 준비 중 | 개발 중 |
-| **KeySift** | 사진·영상·오디오를 미리보고 지정 폴더로 안전하게 분류하는 Windows 도구 | C#, .NET 8, WPF, FFmpeg | ![Personal](https://img.shields.io/badge/Personal-0F766E) | 2026.05 ~ 진행 중 | README 준비 중 | v0.11.1 공개 |
-| **우리가족섬** | 가족 유대감 형성을 위한 3D 메타버스 라이프로깅 SNS | Java, Spring Boot, Spring Security, JWT, JPA, MySQL, Redis, Swagger/OpenAPI, AWS EC2 | ![Team](https://img.shields.io/badge/Team-red) | 2023.10 ~ 12 | 👉 [Repo](https://github.com/WooriIsland/back-end) | 🏆 과학기술정보통신부 장관상 |
-| **Maronnier** | 취향 기반 칵테일 추천과 피드 커뮤니티 서비스 | Java, Spring Boot, Spring Security, JPA, MyBatis, MySQL, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.07.07 ~ 07.30 | 👉 [Repo](https://github.com/chain-smoker/Marronnier) | |
-| **MTVS Lounge Reservation** | 메타버스 아카데미 라운지 예약·커뮤니티 시스템 | Java, Spring Boot, JPA, MySQL, Thymeleaf, HTML5, CSS3, JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.06.21 ~ 06.28 | 👉 [Repo](https://github.com/MTVS-CodeMagician/MTVS-reserve) | |
-| **IoT 전신주 안전 관리** | 센서로 전신주 환경 데이터를 수집하고 관제 화면에서 확인하는 시스템 | Python, Raspberry Pi, Node-RED, IBM Watson IoT Platform | ![Team](https://img.shields.io/badge/Team-red) | 2021 | README 준비 중 | 🏆 우수상 |
-| **CNN 마스크 착용 감지** | 실시간 영상의 착용 상태를 분류하고 현장 경고·원격 모니터링으로 연결한 졸업작품 | Python, Keras, OpenCV, Pillow, Raspberry Pi | ![Team](https://img.shields.io/badge/Team-red) | 2021 | 자료 정리 중 | 졸업작품 |
+| **QInvest** | 미국 주식 정보·분석 서비스와 공개 전 보안·복구 경계를 함께 개발하는 공동 제품 | TypeScript, JavaScript, React, Next.js<br>Node.js, Express, SQLite, PM2 | ![Team](https://img.shields.io/badge/Team-red) | 2026 ~<br>진행 중 | README 준비 중 | 개발 중 |
+| **KeySift** | 사진·영상·오디오를 미리보고 지정 폴더로 안전하게 분류하는 Windows 도구 | C#, .NET 8, WPF<br>FFmpeg | ![Personal](https://img.shields.io/badge/Personal-0F766E) | 2026.05 ~<br>진행 중 | README 준비 중 | v0.11.1 공개 |
+| **우리가족섬** | 가족 유대감 형성을 위한 3D 메타버스 라이프로깅 SNS | Java, Spring Boot, Spring Security, JWT<br>JPA, MySQL, Redis<br>Swagger/OpenAPI, AWS EC2 | ![Team](https://img.shields.io/badge/Team-red) | 2023.10 ~<br>12 | 👉 [Repo](https://github.com/WooriIsland/back-end) | 🏆 과학기술정보통신부 장관상 |
+| **Maronnier** | 취향 기반 칵테일 추천과 피드 커뮤니티 서비스 | Java, Spring Boot, Spring Security<br>JPA, MyBatis, MySQL<br>Thymeleaf, HTML5, CSS3<br>JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.07.07 ~<br>07.30 | 👉 [Repo](https://github.com/chain-smoker/Marronnier) | |
+| **MTVS Lounge Reservation** | 메타버스 아카데미 라운지 예약·커뮤니티 시스템 | Java, Spring Boot, JPA, MySQL<br>Thymeleaf, HTML5, CSS3<br>JavaScript, jQuery, Bootstrap | ![Team](https://img.shields.io/badge/Team-red) | 2023.06.21 ~<br>06.28 | 👉 [Repo](https://github.com/MTVS-CodeMagician/MTVS-reserve) | |
+| **IoT 전신주 안전 관리** | 센서로 전신주 환경 데이터를 수집하고 관제 화면에서 확인하는 시스템 | Python, Raspberry Pi<br>Node-RED, IBM Watson IoT Platform | ![Team](https://img.shields.io/badge/Team-red) | 2021 | README 준비 중 | 🏆 우수상 |
+| **CNN 마스크 착용 감지** | 실시간 영상의 착용 상태를 분류하고 현장 경고·원격 모니터링으로 연결한 졸업작품 | Python, Keras, OpenCV<br>Pillow, Raspberry Pi | ![Team](https://img.shields.io/badge/Team-red) | 2021 | 자료 정리 중 | 졸업작품 |
 
 ---
 
 ## 🛠 Skills
-
-현재 업무와 프로젝트에서 사용한 기술을 종류별로 정리했습니다.
 
 | 구분 | 기술 |
 |:---|:---|
@@ -46,7 +44,7 @@
 
 ## 📞 Contact
 
-<p align="center">
+<p align="left">
   <a href="mailto:jinwoo.kim.dev@gmail.com"><img alt="Email jinwoo.kim.dev@gmail.com" src="https://img.shields.io/badge/Email-jinwoo.kim.dev%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
